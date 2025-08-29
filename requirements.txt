@@ -1,0 +1,15 @@
+streamlit>=1.33
+yfinance>=0.2.40
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+xlsxwriter>=3.2
+plotly>=5.22
+kaleido>=0.2.1
+streamlit
+yfinance
+pandas
+numpy
+xlsxwriter
+plotly
+
